@@ -1,5 +1,12 @@
 This exercise practices having a functional authentication using jwt (jsonwebtoken) authentication.
 
+Technologies used:
+- Node.js
+- Express.js
+- TypeScript on backend & Vanilla JS on frontend
+- Materialize CSS
+
+
 Key features:
 
 - Ability to register, login and log out
